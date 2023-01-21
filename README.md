@@ -10,6 +10,12 @@ A primer on large language models (LLM) as of Jan 2023
 - [V2 slides, Jan 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2_jan_2023.pdf)
 - [Old V1 slides, July 2022](https://github.com/hululuzhu/fun-paper-sharing/blob/main/slides/llm_primer_v1.pdf)
 
+
+## Additional notes
+- [Draft notes](draft_notes_llm_primer.pdf) to prepare V2 topics
+- [Some detailed thoughts (in Chinese) on pure technical challenges to reproduce ChatGPT](chinese_only_tech_challanges_reproduce_chatgpt.md)
+
+
 ## References
 <details>
   <summary>~120 References as of 01/13/2023</summary>
