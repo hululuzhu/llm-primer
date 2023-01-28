@@ -14,14 +14,14 @@ A primer on large language models (LLM) as of Jan 2023
 ## Additional notes
 - [Draft notes](draft_notes_llm_primer.pdf) to prepare V2 topics
 
-### Chinese only notes
-- [Some detailed thoughts (in Chinese) on pure technical challenges to reproduce ChatGPT](chinese_only_tech_challanges_reproduce_chatgpt.md)
-- [Some detailed thoughts (in Chinese) what less optimal options Google had taken](chinese_only_thoughts_on_less_optimal_choices_by_google.md)
+### Chinese only notes (my personal opinion)
+- [对于“纯复现ChatGPT有多难”的一些思考](chinese_only_tech_challanges_reproduce_chatgpt.md)
+- [对“Google在LLM怎么就被动了”做一点反思](chinese_only_thoughts_on_less_optimal_choices_by_google.md)
 
 
-## References
+## ~120 References as of 01/13/2023
 <details>
-  <summary>~120 References as of 01/13/2023</summary>
+  <summary>Click to expand</summary>
 
   - [[1706.03741] Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
   - [[1706.03762] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
@@ -32,6 +32,7 @@ A primer on large language models (LLM) as of Jan 2023
   - [[2001.08361] Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
   - [[2005.14165] Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   - [[2103.00823] M6: A Chinese Multimodal Pretrainer](https://arxiv.org/abs/2103.00823)
+  - [[2104.08691] The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
   - [[2104.09864] RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
   - [[2106.04554] A Survey of Transformers](https://arxiv.org/abs/2106.04554)
   - [[2111.06377] Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
