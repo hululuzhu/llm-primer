@@ -9,6 +9,7 @@
 - 18年6月，OpenAI发布只有解码器的GPT-1（1.1亿参数），没有激起浪花。
 - 18年10月，Google发布只有编码器的BERT（最大3.5亿参数），可以用来微调下游任务，风光无限。
 - 19年2月，OpenAI发表了GPT-2系列论文，最大的模型有15亿参数。OpenAI说这个模型太危险不能分享，被群嘲。
+- 19年9月，OpenAI使用RLHF（但是论文说human preference而不是human feedback）用来微调GPT2（7.7亿参数版本），没有引起关注。
 - 19年10月，Google发布基于编码解码器的T5（BERT只有编码，GPT只用解码）。最大模型110亿参数并开放。兼容BERT和GPT的下游任务，再风光。
 - 20年5月，OpenAI公布GPT-3论文（1750亿参数），谈到prompt engineering（著名的“Lets think step by step”），模型不公开，只通过API形式半开放。
 - 20年9月，OpenAI用小型GPT3（130亿参数）使用RLHF技术来总结长文（ChatGPT用到了RLHF），算法也是PPO。

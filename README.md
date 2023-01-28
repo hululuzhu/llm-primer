@@ -13,7 +13,10 @@ A primer on large language models (LLM) as of Jan 2023
 
 ## Additional notes
 - [Draft notes](draft_notes_llm_primer.pdf) to prepare V2 topics
+
+### Chinese only notes
 - [Some detailed thoughts (in Chinese) on pure technical challenges to reproduce ChatGPT](chinese_only_tech_challanges_reproduce_chatgpt.md)
+- [Some detailed thoughts (in Chinese) what less optimal options Google had taken](chinese_only_thoughts_on_less_optimal_choices_by_google.md)
 
 
 ## References
