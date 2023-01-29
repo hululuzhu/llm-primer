@@ -43,6 +43,7 @@ A primer on large language models (LLM) as of Jan 2023
   - [[2204.05862] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
   - [[2205.01068] OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068)
   - [[2205.05198] Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
+  - [[2205.11916] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
   - [[2206.07682] Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
   - [[2207.01780] CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://arxiv.org/abs/2207.01780)
   - [[2208.03299] Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)
