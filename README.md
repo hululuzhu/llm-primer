@@ -2,9 +2,62 @@
 A primer on large language models (LLM) as of Jan 2023
 
 ## Covers
-- Intro: Building blocks & capabilities
-- Core: Models, players, concepts, toolings & applications
-- Bonus: Deep dive into ChatGPT
+<details>
+  <summary>Intro: Building blocks & capabilities</summary>
+
+  - LM and LLM
+  - Transformer
+  - How are LLMs trained?
+  - LLM decoding
+  - LLM training in parallel
+  - LLM capabilities, advanced capabilities and insance capabilities
+</details>
+<details>
+  <summary>Core: Models, players, concepts, toolings & applications</summary>
+
+  - Selected LLMs
+    - BERT
+    - GPT family
+    - T5
+    - GLM
+  - LLM Players
+    - big companies
+    - institutes and startups)
+  - LLM concepts
+    - Pretraining, finetuning, prompt tuning
+    - Scaling laws
+    - Prompt engineering
+    - Prompt tuning (soft prompt)
+    - "Emergent abilities"
+    - Chain of thoughts (CoT)
+    - Least-to-most prompting
+    - Hallucination
+    - Retrieval LLM
+    - RLHF for LLM
+    - Mixture of Experts (MoE) LLM
+  - LLM Tooling
+    - Huggingface
+    - TF hub, Torch NLP, PaddleNLP
+    - Transformers lib, Colossal-ai, Ray and NanoGPT
+    - Other toolings
+  - LLM Applications
+
+</details>
+<details>
+  <summary>Bonus: Deep dive into ChatGPT</summary>
+
+  - ChatGPT model evolvment
+  - Research (InstructGPT) overview
+  - Possible next steps for ChatGPT?
+  - Engineering discussion
+  - Rough estimate to train/server chatgpt
+  - My thoughts on technical challenges to reproduce ChatGPT
+  - What less optimal choices Google made related to ChatGPT delayed Google to release similar product?
+  - Fun facts
+  - ChatGPT challenges
+  - Final question: Will ChatGPT become next iPhone, or next Alexa, or next ClubHouse?
+  
+</details>
 
 ## Slides
 - [V2 slides, Jan 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2_jan_2023.pdf)
