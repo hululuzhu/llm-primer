@@ -70,9 +70,9 @@ A primer on large language models (LLM) as of Jan 2023
 ### Chinese only notes (my personal opinion)
 - [对于“纯复现ChatGPT有多难”的一些思考](chinese_only_tech_challanges_reproduce_chatgpt.md)
 - [对“Google在LLM怎么就被动了”做一点反思](chinese_only_thoughts_on_less_optimal_choices_by_google.md)
+- [对技术“弯道超车”ChatGPT的一些思考](chinese_only_crazy_ideas_surpass_chatgpt.md)
 
-
-## ~120 References as of 01/13/2023
+## ~120 References as of 01/30/2023
 <details>
   <summary>Click to expand</summary>
 
