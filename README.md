@@ -72,6 +72,11 @@ A primer on large language models (LLM) as of Jan 2023
 - [对“Google在LLM怎么就被动了”做一点反思](chinese_only_thoughts_on_less_optimal_choices_by_google.md)
 - [对技术“弯道超车”ChatGPT的一些思考](chinese_only_crazy_ideas_surpass_chatgpt.md)
 
+## Recommended quick readings
+- [张俊林：通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- [Yao Fu：How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [Stephen Wolfram：What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
 ## ~120 References as of 01/30/2023
 <details>
   <summary>Click to expand</summary>
