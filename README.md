@@ -1,7 +1,7 @@
 # llm-primer
 A primer on large language models (LLM) as of Jan 2023
 
-## Covers
+## V2 Covers
 <details>
   <summary>Intro: Building blocks & capabilities</summary>
 
@@ -59,7 +59,14 @@ A primer on large language models (LLM) as of Jan 2023
   
 </details>
 
+## V2.1 Covers
+- LLM basics
+- RL basics
+- ChatGPT
+- Societal Impact
+
 ## Slides
+- [V2.1 slides, April 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2.1_april_2023_llm_rl_chatgpt)
 - [V2 slides, Jan 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2_jan_2023.pdf)
 - [Old V1 slides, July 2022](https://github.com/hululuzhu/fun-paper-sharing/blob/main/slides/llm_primer_v1.pdf)
 
@@ -202,3 +209,6 @@ A primer on large language models (LLM) as of Jan 2023
   - [Wu Dao 2.0: China’s Answer To GPT-3. Only Better](https://analyticsindiamag.com/wu-dao-2-0-chinas-answer-to-gpt-3-only-better/)
   - [Zhuiyi Technology](https://en.zhuiyi.ai/)
 </details>
+
+
+## TODO: V2.1 Reference list
