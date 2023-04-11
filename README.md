@@ -1,5 +1,5 @@
 # llm-primer
-A primer on large language models (LLM) as of Jan 2023
+A primer on large language models (LLM) and ChatGPT as of April 2023
 
 ## V2 Covers
 <details>
@@ -72,12 +72,12 @@ A primer on large language models (LLM) as of Jan 2023
 
 
 ## Additional notes
-- [Draft notes](draft_notes_llm_primer.pdf) to prepare V2 topics
+- [Draft notes](other/draft_notes_llm_primer.pdf) to prepare V2 topics
 
 ### Chinese only notes (my personal opinion)
-- [对于“纯复现ChatGPT有多难”的一些思考](chinese_only_tech_challanges_reproduce_chatgpt.md)
-- [对“Google在LLM怎么就被动了”做一点反思](chinese_only_thoughts_on_less_optimal_choices_by_google.md)
-- [对技术“弯道超车”ChatGPT的一些思考](chinese_only_crazy_ideas_surpass_chatgpt.md)
+- [对于“纯复现ChatGPT有多难”的一些思考](other/chinese_only_tech_challanges_reproduce_chatgpt.md)
+- [对“Google在LLM怎么就被动了”做一点反思](other/chinese_only_thoughts_on_less_optimal_choices_by_google.md)
+- [对技术“弯道超车”ChatGPT的一些思考](other/chinese_only_crazy_ideas_surpass_chatgpt.md)
 
 ## Recommended quick readings
 - [张俊林：通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
