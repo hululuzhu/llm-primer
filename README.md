@@ -1,6 +1,8 @@
 # llm-primer
 A primer on large language models (LLM) and ChatGPT as of April 2023
 
+[![LLM, RL and ChatGPT](https://img.youtube.com/vi/DoTO-0iHouI/0.jpg)](https://www.youtube.com/watch?v=DoTO-0iHouI)
+
 ## V2 Covers
 <details>
   <summary>Intro: Building blocks & capabilities</summary>
