@@ -67,6 +67,7 @@ A primer on large language models (LLM) and ChatGPT as of April 2023
 
 ## Slides
 - [V2.1 slides, April 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2.1_april_2023_llm_rl_chatgpt.pdf)
+  - [Appendix 6-page slides](https://github.com/hululuzhu/llm-primer/blob/main/other/quick_summary_embedding_bert_gpt.pdf) to explaing BERT and GPT training, and their embedding ouput and its size
 - [V2 slides, Jan 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2_jan_2023.pdf)
 - [Old V1 slides, July 2022](https://github.com/hululuzhu/fun-paper-sharing/blob/main/slides/llm_primer_v1.pdf)
 
