@@ -2,6 +2,9 @@
 A primer on large language models (LLM) and ChatGPT as of April 2023
 - [A video recording for V2.1 Slides, assisted by AI](https://www.youtube.com/watch?v=DoTO-0iHouI)
 
+## Update 05/2023
+- A new side project to [Brainstorm how to possibly train better chatbots than ChatGPT](https://github.com/hululuzhu/better-chatbot-than-chatgpt)
+
 ## V2 Covers
 <details>
   <summary>Intro: Building blocks & capabilities</summary>
